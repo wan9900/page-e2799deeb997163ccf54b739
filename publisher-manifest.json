@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "3b9e94aaa79c04c1e8d23602",
+  "owner": "wan9900",
+  "repo": "page-e2799deeb997163ccf54b739",
+  "title": "免费订阅导入",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e2799deeb997163ccf54b739",
+      "a": "纵横加速(okvpn)",
+      "b": "免费订阅导入",
+      "entity": "纵横加速(okvpn)",
+      "brand": "免费订阅导入",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "abeb82a24779ee689f1a575e9136ef34fae049b005019953491d40ab7b223a43",
+      "content": {
+        "primary_entity": "纵横加速(okvpn)",
+        "keyword1": "纵横加速(okvpn)",
+        "keyword2": "免费订阅导入",
+        "content": {
+          "AI_DESCRIPTION": "，纵横加速提供基础版、旗舰版、团队版三档订阅，覆盖每月100GB到1000GB流量、3台到20台设备同时在线，并支持按年付优惠。用户可依据自身设备数量与流量需求选择套餐，再配合各平台客户端完成订阅配置。",
+          "AI_HERO_SUBTITLE": "纵横加速多端订阅选择",
+          "AI_HERO_INTRO": "纵横加速面向多设备用户提供不同档位订阅方案，基础版适合轻度使用，旗舰版增加IPLC专线与流媒体解锁，团队版支持二十台设备在线。按年付可享受更优价格，用户可按需挑选。",
+          "AI_VISUAL_TITLE": "纵横加速订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线优化",
+          "AI_HIGHLIGHT_3": "按年付价格更优惠",
+          "AI_FEATURES_TITLE": "纵横加速特点",
+          "AI_FEATURES_INTRO": "从套餐档位、设备支持与订阅周期三个方面了解纵横加速。",
+          "AI_FEATURE_TITLE_1": "套餐档位清晰",
+          "AI_FEATURE_TEXT_1": "基础版15元每月，旗舰版35元每月，团队版85元每月，流量与设备数逐级提升。",
+          "AI_FEATURE_TITLE_2": "设备支持灵活",
+          "AI_FEATURE_TEXT_2": "基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线。",
+          "AI_FEATURE_TITLE_3": "订阅周期可选",
+          "AI_FEATURE_TEXT_3": "支持按月付费，也支持按年付享受优惠，例如基础版年付150元。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备对应不同客户端，建议依据设备系统查看订阅配置文档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版适合有多设备与流媒体需求的用户，团队版适合多人多设备场景。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "先确认使用设备与服务需求，再选择套餐，然后依照客户端文档完成订阅导入。",
+          "AI_STEP_TITLE_1": "选择服务与套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统是否在客户端支持范围内，并了解同时在线设备数限制。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "参考对应客户端的使用说明，将订阅信息导入并完成配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定套餐，并按客户端文档配置订阅，即可开始使用纵横加速。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_QUESTION_1": "纵横加速(okvpn)的套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "个人轻量使用选基础版，需要同时连接多设备或流媒体游戏加速选旗舰版，十台以上设备或团队协作选团队版。按月流量与设备上限交叉对比即可。",
+          "AI_FAQ_QUESTION_2": "是否支持按年付费？年付有什么优惠？",
+          "AI_FAQ_ANSWER_2": "三个版本均支持按年付费。基础版年付¥150，旗舰版¥350，团队版¥850。相比按月支付十二个月，年付节省约两个月费用。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "购买后获得订阅链接，在所选客户端中通过订阅导入功能填入链接并更新节点列表。不同客户端操作略有差异，可参照随订阅提供的配置文档。",
+          "AI_FAQ_QUESTION_4": "套餐的在线设备数是否包含手机和电脑？",
+          "AI_FAQ_ANSWER_4": "套餐标注的在线设备数涵盖所有终端，包括手机、电脑和平板等。同一时间超出设备限制时，需要关闭其他设备或升级套餐。",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "IPLC专线针对游戏加速与流媒体访问做了优化，适合对延迟和稳定性要求较高的实时应用。普通浏览与下载在全部版本中均有覆盖。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f140d7edbf0f0d804b7959348d96cf79e9f0d3c67de2a8bc4346048bf22d986e",
+    "sitemap.xml": "d08cdcdeca0cb5b3055ecb875c035fc970b637df4ff79ac953fce7da188c3310",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "0f64e60dbae96cfd760d8969b3b646393e863a9b7ebc57750669c818fd2ec7bf"
+}
